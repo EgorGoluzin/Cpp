@@ -1,0 +1,14 @@
+<family>
+  <father>Igor</father>
+  <mother>Larisa</mother>
+  <first_daughter>Anna
+    <second_grandson>Sergey</second_grandson>
+  </first_daughter>
+  <second_daughter>Marina</second_daughter>
+  <grandson>Ivan</grandson>
+  <adress>
+    <city>Saratov</city>
+    <street>Vyzemskaya</street>
+    <house>6</house>
+  </adress>
+</family>
